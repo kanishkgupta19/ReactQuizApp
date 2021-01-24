@@ -82,7 +82,7 @@ background-position: center;
 }
 
 .btn-black:hover{
-  color:white;
+  color:white !important;
 }
 
 svg{
